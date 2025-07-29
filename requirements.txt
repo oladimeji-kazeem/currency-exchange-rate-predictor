@@ -1,0 +1,8 @@
+streamlit
+fredapi
+scikit-learn
+pandas
+numpy
+matplotlib
+python-dotenv
+bcrypt
